@@ -232,6 +232,7 @@ export default function App() {
       <Button onPress={resetGame} full rounded success style={styles.button}>
         <Text>Reset</Text>
       </Button>
+      <Text>Made by: Piyush Garg</Text>
     </View>
   );
 }
